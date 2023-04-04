@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project pages | Dimple Bhuta</title>
+    <link>https://dimpleb0501.github.io/project-page/</link>
+      <atom:link href="https://dimpleb0501.github.io/project-page/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project pages</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimpleb0501.github.io/media/icon_huc013f98525804727a490388fa39763f6_9972_512x512_fill_q75_lanczos_center.jpg</url>
+      <title>Project pages</title>
+      <link>https://dimpleb0501.github.io/project-page/</link>
+    </image>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://dimpleb0501.github.io/project-page/sample/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project-page/sample/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://dimpleb0501.github.io/project-page/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project-page/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

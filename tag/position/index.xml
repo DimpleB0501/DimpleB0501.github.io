@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>position | Dimple Bhuta</title>
+    <link>https://dimpleb0501.github.io/tag/position/</link>
+      <atom:link href="https://dimpleb0501.github.io/tag/position/index.xml" rel="self" type="application/rss+xml" />
+    <description>position</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://dimpleb0501.github.io/media/icon_huc013f98525804727a490388fa39763f6_9972_512x512_fill_q75_lanczos_center.jpg</url>
+      <title>position</title>
+      <link>https://dimpleb0501.github.io/tag/position/</link>
+    </image>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/research_projects/1_cars_proj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/research_projects/1_cars_proj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

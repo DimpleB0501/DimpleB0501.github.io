@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dimpleb0501.github.io/research_projects/1_cars_proj/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/research_projects/2_obj_det_track/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/research_projects/3_prog_manipulator/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/research_projects/4_motion_robot/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/research_projects/5_slip_control/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/research_projects/6_tactile_haptic/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/research_projects/7_jewell_segmentation/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/extra_project/example/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/research_projects/8_pattern_rec/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dimpleb0501.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -102,19 +129,19 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dimpleb0501.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dimpleb0501.github.io/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dimpleb0501.github.io/project/example/</loc>
+    <loc>https://dimpleb0501.github.io/extra_project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/extra_project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -139,6 +166,15 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/segmentation/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/sample/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/research_projects/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
