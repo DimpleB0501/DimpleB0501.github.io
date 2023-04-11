@@ -22,9 +22,9 @@
     
     <item>
       <title></title>
-      <link>https://dimpleb0501.github.io/project/segmentation/</link>
+      <link>https://dimpleb0501.github.io/project/7_segmentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/segmentation/</guid>
+      <guid>https://dimpleb0501.github.io/project/7_segmentation/</guid>
       <description>&lt;h1 id=&#34;traffic-sign-recognition&#34;&gt;&lt;strong&gt;Traffic Sign Recognition&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;The goals / steps of this project are the following:&lt;/p&gt;
 &lt;ul&gt;
@@ -323,9 +323,63 @@ Following image consists of top five soft max probabilities for the 5 images dow
     
     <item>
       <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
-      <link>https://dimpleb0501.github.io/project/sample/</link>
+      <link>https://dimpleb0501.github.io/project/1_cars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/sample/</guid>
+      <guid>https://dimpleb0501.github.io/project/1_cars/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/2_objtrack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/2_objtrack/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/3_manipulator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/3_manipulator/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/4_robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/4_robot/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/5_slipcontrol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/5_slipcontrol/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/6_haptic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/6_haptic/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/8_patternrec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/8_patternrec/</guid>
       <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
 </description>
     </item>

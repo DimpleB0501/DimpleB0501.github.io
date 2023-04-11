@@ -168,10 +168,28 @@
     <loc>https://dimpleb0501.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dimpleb0501.github.io/project/segmentation/</loc>
+    <loc>https://dimpleb0501.github.io/project/7_segmentation/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dimpleb0501.github.io/project/sample/</loc>
+    <loc>https://dimpleb0501.github.io/project/1_cars/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/2_objtrack/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/3_manipulator/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/4_robot/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/5_slipcontrol/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/6_haptic/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/8_patternrec/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/research_projects/</loc>
