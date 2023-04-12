@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Obstacle detection and collision avoidance for multi-rotor UAVs&lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/research_projects/10_obs_avoid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/research_projects/10_obs_avoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Position estimation of a multi-rotor UAV using a depth camera &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/research_projects/9_flvis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/research_projects/9_flvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/1_cars_proj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/1_cars_proj/</guid>
@@ -21,7 +37,7 @@
     </item>
     
     <item>
-      <title>Object detection and tracking</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Object detection and tracking &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/2_obj_det_track/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/2_obj_det_track/</guid>
@@ -29,7 +45,7 @@
     </item>
     
     <item>
-      <title>Programming robotic manipulator for pick and place task</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Programming robotic manipulator for pick and place task &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/3_prog_manipulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/3_prog_manipulator/</guid>
@@ -37,7 +53,7 @@
     </item>
     
     <item>
-      <title>Development of motion planning algorithms for robots</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Development of motion planning algorithms for robots &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/4_motion_robot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/4_motion_robot/</guid>
@@ -45,7 +61,7 @@
     </item>
     
     <item>
-      <title>Slip control experimental setup design</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Slip control experimental setup design &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/5_slip_control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/5_slip_control/</guid>
@@ -53,7 +69,7 @@
     </item>
     
     <item>
-      <title>Tactile and haptic glove interface</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Tactile and haptic glove interface &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/6_tactile_haptic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/6_tactile_haptic/</guid>
@@ -69,7 +85,7 @@
     </item>
     
     <item>
-      <title>Pattern recognition based prosthetic arm</title>
+      <title>&lt;p align=&#39;justify&#39;&gt;Pattern recognition based prosthetic arm&lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/8_pattern_rec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/8_pattern_rec/</guid>

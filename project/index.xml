@@ -5,20 +5,12 @@
     <link>https://dimpleb0501.github.io/project/</link>
       <atom:link href="https://dimpleb0501.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://dimpleb0501.github.io/media/icon_huc013f98525804727a490388fa39763f6_9972_512x512_fill_q75_lanczos_center.jpg</url>
       <title>Projects</title>
       <link>https://dimpleb0501.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://dimpleb0501.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>
@@ -323,6 +315,15 @@ Following image consists of top five soft max probabilities for the 5 images dow
     
     <item>
       <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/10_obsavoid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/10_obsavoid/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
       <link>https://dimpleb0501.github.io/project/1_cars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/1_cars/</guid>
@@ -380,6 +381,60 @@ Following image consists of top five soft max probabilities for the 5 images dow
       <link>https://dimpleb0501.github.io/project/8_patternrec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/8_patternrec/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/9_flvis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/9_flvis/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/a_behaviorclone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/a_behaviorclone/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/b_foodordering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/b_foodordering/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/c_facegen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/c_facegen/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/d_capt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/d_capt/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/e_landmarkdet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/e_landmarkdet/</guid>
       <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
 </description>
     </item>

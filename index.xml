@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Obstacle detection and collision avoidance for multi-rotor UAVs&lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/research_projects/10_obs_avoid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/research_projects/10_obs_avoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Position estimation of a multi-rotor UAV using a depth camera &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/research_projects/9_flvis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/research_projects/9_flvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/1_cars_proj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/1_cars_proj/</guid>
@@ -21,7 +37,7 @@
     </item>
     
     <item>
-      <title>Object detection and tracking</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Object detection and tracking &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/2_obj_det_track/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/2_obj_det_track/</guid>
@@ -29,7 +45,7 @@
     </item>
     
     <item>
-      <title>Programming robotic manipulator for pick and place task</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Programming robotic manipulator for pick and place task &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/3_prog_manipulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/3_prog_manipulator/</guid>
@@ -37,7 +53,7 @@
     </item>
     
     <item>
-      <title>Development of motion planning algorithms for robots</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Development of motion planning algorithms for robots &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/4_motion_robot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/4_motion_robot/</guid>
@@ -45,7 +61,7 @@
     </item>
     
     <item>
-      <title>Slip control experimental setup design</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Slip control experimental setup design &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/5_slip_control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/5_slip_control/</guid>
@@ -53,7 +69,7 @@
     </item>
     
     <item>
-      <title>Tactile and haptic glove interface</title>
+      <title>&lt;p align=&#39;justify&#39;&gt; Tactile and haptic glove interface &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/6_tactile_haptic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/6_tactile_haptic/</guid>
@@ -69,15 +85,7 @@
     </item>
     
     <item>
-      <title>Pattern recognition based prosthetic arm</title>
-      <link>https://dimpleb0501.github.io/extra_project/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/extra_project/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pattern recognition based prosthetic arm</title>
+      <title>&lt;p align=&#39;justify&#39;&gt;Pattern recognition based prosthetic arm&lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/research_projects/8_pattern_rec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/research_projects/8_pattern_rec/</guid>
@@ -329,7 +337,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-274186395&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-385964712&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -339,7 +347,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-274186395&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-385964712&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -818,22 +826,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://dimpleb0501.github.io/extra_project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/extra_project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://dimpleb0501.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An example journal article</title>
       <link>https://dimpleb0501.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -1181,6 +1173,55 @@ Following image consists of top five soft max probabilities for the 5 images dow
     </item>
     
     <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Behavioral Cloning &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/extra_project/1_behavioralcloning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/extra_project/1_behavioralcloning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Body pose estimation &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/extra_project/5_landmarkdet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/extra_project/5_landmarkdet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Face generation &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/extra_project/3_facegen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/extra_project/3_facegen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Food Ordering App &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/extra_project/2_foodorder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/extra_project/2_foodorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Image captioning &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/extra_project/4_imagecapt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/extra_project/4_imagecapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/10_obsavoid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/10_obsavoid/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
       <link>https://dimpleb0501.github.io/project/1_cars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1239,6 +1280,60 @@ Following image consists of top five soft max probabilities for the 5 images dow
       <link>https://dimpleb0501.github.io/project/8_patternrec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/8_patternrec/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/9_flvis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/9_flvis/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/a_behaviorclone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/a_behaviorclone/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/b_foodordering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/b_foodordering/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/c_facegen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/c_facegen/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/d_capt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/d_capt/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/e_landmarkdet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/e_landmarkdet/</guid>
       <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
 </description>
     </item>
