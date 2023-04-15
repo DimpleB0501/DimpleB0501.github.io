@@ -439,5 +439,23 @@ Following image consists of top five soft max probabilities for the 5 images dow
 </description>
     </item>
     
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/f_turtlebotobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/f_turtlebotobs/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/g_turtlebot_autonomousnav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/g_turtlebot_autonomousnav/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

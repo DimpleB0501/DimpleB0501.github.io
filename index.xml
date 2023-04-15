@@ -337,7 +337,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-385964712&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-142753896&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -347,7 +347,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-385964712&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-142753896&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1173,6 +1173,14 @@ Following image consists of top five soft max probabilities for the 5 images dow
     </item>
     
     <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Autonomous navigation for differential drive robot &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/extra_project/7_turtlebot_wpsfollowing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/extra_project/7_turtlebot_wpsfollowing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>&lt;p align=&#39;justify&#39;&gt; Behavioral Cloning &lt;/p&gt;</title>
       <link>https://dimpleb0501.github.io/extra_project/1_behavioralcloning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1209,6 +1217,14 @@ Following image consists of top five soft max probabilities for the 5 images dow
       <link>https://dimpleb0501.github.io/extra_project/4_imagecapt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/extra_project/4_imagecapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;p align=&#39;justify&#39;&gt; Obstacle avoidance for differential drive robot &lt;/p&gt;</title>
+      <link>https://dimpleb0501.github.io/extra_project/6_turtlebot_obstacle_avoidance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/extra_project/6_turtlebot_obstacle_avoidance/</guid>
       <description></description>
     </item>
     
@@ -1334,6 +1350,24 @@ Following image consists of top five soft max probabilities for the 5 images dow
       <link>https://dimpleb0501.github.io/project/e_landmarkdet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/e_landmarkdet/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/f_turtlebotobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/f_turtlebotobs/</guid>
+      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
+      <link>https://dimpleb0501.github.io/project/g_turtlebot_autonomousnav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/g_turtlebot_autonomousnav/</guid>
       <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
 </description>
     </item>
