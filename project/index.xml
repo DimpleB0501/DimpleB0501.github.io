@@ -13,303 +13,88 @@
     </image>
     
     <item>
-      <title></title>
+      <title>Behavioral Cloning</title>
+      <link>https://dimpleb0501.github.io/project/a_behaviorclone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/a_behaviorclone/</guid>
+      <description>&lt;p align=&#39;justify&#39;&gt; I was selected for term 1 of self-driving cars nanodegree through KPIT scholarship. In the nanodegree, we implemented several projects like lane line detection, traffic signal classifier, behavioral cloning, and sensor fusion via extended kalman filters. Following is the &lt;a href=&#34;https://github.com/DimpleB0501/udacity_nanodegree_projects/tree/main/1_self_driving_ND&#34;&gt; GitHub link &lt;/a&gt; for the codes that I implemented during the course.
+&lt;br&gt;
+&amp;emsp; Of particular interest for me was the behavioral cloning project. In this project, our goal was to train a network using Keras which can successfully emulate human driving behavior autonomously in a simulated environment. I built a modified CNN based on NVIDIA’s &lt;a href=&#34;https://arxiv.org/pdf/1604.07316v1.pdf&#34;&gt; End to End Learning for Self-Driving Cars &lt;/a&gt; paper. &lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;bc.gif&#34;
+         alt=&#34;cars&#34;&gt;
+    &lt;figcaption&gt;Figure: Car driving autonomously in the simulator &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of motion planning algorithms for robots</title>
+      <link>https://dimpleb0501.github.io/project/4_robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/4_robot/</guid>
+      <description>&lt;div&gt;
+      &lt;figure style=&#34;float:left; width:100%&#34;&gt;
+        &lt;a href=&#34;#&#34;&gt;
+          &lt;img src=&#34;a_bread.gif&#34; loading=&#34;lazy&#34; alt=&#34;cat&#34; width=&#34;50%&#34;&gt;
+        &lt;/a&gt;
+        &lt;figcaption style=&#34;text-align:center&#34;&gt; (a) Bread cutting task &lt;/figcaption&gt;
+      &lt;/figure&gt;
+      &lt;figure style=&#34;float:left; width:50%&#34;&gt;
+        &lt;a href=&#34;#&#34;&gt;
+          &lt;img src=&#34;b_wine.gif&#34; loading=&#34;lazy&#34; alt=&#34;cat 2&#34; width=&#34;100%&#34;&gt;
+        &lt;/a&gt;
+        &lt;figcaption style=&#34;text-align:center&#34;&gt; (b) Corkscrew unlocking task &lt;/figcaption&gt;
+      &lt;/figure&gt;
+      &lt;figure style=&#34;float:left; width:50%&#34;&gt;
+        &lt;a href=&#34;#&#34;&gt;
+          &lt;img src=&#34;c_hand.gif&#34; loading=&#34;lazy&#34; alt=&#34;cat&#34; width=&#34;100%&#34;&gt;
+        &lt;/a&gt;
+        &lt;figcaption style=&#34;text-align:center&#34;&gt; (c) Programmatic controlling of a robotic hand &lt;/figcaption&gt;
+      &lt;/figure&gt;
+    &lt;/div&gt;
+&lt;br&gt; &lt;br&gt;
+&lt;p align=&#39;justify&#39;&gt; &amp;emsp; This part of my work was affiliated with the office of naval research Singapore (abbreviated ONR). Here I worked with a group of research scientists to make robots perform day-to-day tasks such as bread cutting and opening the corkscrew for a wine bottle. My work consisted of motion planning and control of the robots. I programmed the robot to perform zig-zag and spiral motions, as well as build an interface to control the digits of a robotic hand. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Face generation</title>
+      <link>https://dimpleb0501.github.io/project/c_facegen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/c_facegen/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;face_gen.png&#34;
+         alt=&#34;GAN&#34;&gt;
+    &lt;figcaption&gt;Figure: Face generation with GANs &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p align=&#39;justify&#39;&gt; I had applied to Bertelsmann Technology Scholarships and was among the Top 1,600 performers. As a result of which I was awarded a scholarship to Deep Learning Nanodegree program. A module of my program was dedicated to fake face generation using general adversarial networks (GANs). Figure above displays the generated samples (or generated faces) from my developed GAN model.
+&lt;br&gt;
+&amp;emsp; The generated samples do not exactly resemble human faces, but rather seem to be scary caricatures. This was because the training data consists of most images that are clipped below the chin area and were biased towards white celebrity faces. To improve the model work needs to be done towards creating a dataset comprising of high resolution images of complete faces of diverse ethnicity. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jewellery segmentation</title>
       <link>https://dimpleb0501.github.io/project/7_segmentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/7_segmentation/</guid>
-      <description>&lt;h1 id=&#34;traffic-sign-recognition&#34;&gt;&lt;strong&gt;Traffic Sign Recognition&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;The goals / steps of this project are the following:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Load the data set (see below for links to the project data set)&lt;/li&gt;
-&lt;li&gt;Explore, summarize and visualize the data set&lt;/li&gt;
-&lt;li&gt;Design, train and test a model architecture&lt;/li&gt;
-&lt;li&gt;Use the model to make predictions on new images&lt;/li&gt;
-&lt;li&gt;Analyze the softmax probabilities of the new images&lt;/li&gt;
-&lt;li&gt;Summarize the results with a written report&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;1-provide-a-writeup--readme-that-includes-all-the-rubric-points-and-how-you-addressed-each-one-you-can-submit-your-writeup-as-markdown-or-pdf-you-can-use-this-template-as-a-guide-for-writing-the-report-the-submission-includes-the-project-code&#34;&gt;1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.&lt;/h4&gt;
-&lt;p&gt;You&amp;rsquo;re reading it! and the code is in &lt;code&gt;Traffic_Sign_Classifier.ipynb&lt;/code&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;data-set-summary--exploration&#34;&gt;Data Set Summary &amp;amp; Exploration&lt;/h3&gt;
-&lt;h4 id=&#34;1-provide-a-basic-summary-of-the-data-set-in-the-code-the-analysis-should-be-done-using-python-numpy-andor-pandas-methods-rather-than-hardcoding-results-manually&#34;&gt;1. Provide a basic summary of the data set. In the code, the analysis should be done using python, numpy and/or pandas methods rather than hardcoding results manually.&lt;/h4&gt;
-&lt;p&gt;I used pickle to import the training and testing files.From code blocks 1-4 we find that the&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The size of training set is 34799&lt;/li&gt;
-&lt;li&gt;The size of test set is 12630&lt;/li&gt;
-&lt;li&gt;The shape of a traffic sign image is (32,32,3)&lt;/li&gt;
-&lt;li&gt;The number of unique classes/labels in the data set is 43.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;2-include-an-exploratory-visualization-of-the-dataset&#34;&gt;2. Include an exploratory visualization of the dataset.&lt;/h4&gt;
-&lt;p&gt;Here is an exploratory visualization of the data set. Following figure displays random images from the training data set and their corresponding labels.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./output_images/dataExploration.png&#34; alt=&#34;Visualization of dataset&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+      <description>&lt;p align=&#39;justify&#39;&gt; In digital image processing and computer vision, image segmentation is a process of partitioning a digital image into multiple segments. It helps to simplify the image as well as the partitioned image is eventually assigned labels which with further processing play an important role in object detection within an image.
+&lt;br&gt;
+&amp;emsp; I worked as a Project Assistant at Multimodal Perception Laboratory, International Institute of Information Technology, Bangalore, India. My work here was  to analyze different image segmentation algorithms and develop an algorithm that would segment the background in shared jewelry images. The output of our algorithm was to replace the original background with transparent background. Our vendors intended to replace the background, edit the image and use it on selling websites.
+&lt;br&gt;
+&amp;emsp; Figures 1 and 2 displays our algorithm’s performance on original images shared by our vendors.
 &lt;/p&gt;
-&lt;p&gt;The figure below shows the histogram of data distribution&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./output_images/dataDistributionHistogram.png&#34; alt=&#34;Data Distribution&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;design-and-test-a-model-architecture&#34;&gt;Design and Test a Model Architecture&lt;/h3&gt;
-&lt;h4 id=&#34;1-describe-how-you-preprocessed-the-image-data-what-techniques-were-chosen-and-why-did-you-choose-these-techniques-consider-including-images-showing-the-output-of-each-preprocessing-technique-pre-processing-refers-to-techniques-such-as-converting-to-grayscale-normalization-etc-optional-as-described-in-the-stand-out-suggestions-part-of-the-rubric-if-you-generated-additional-data-for-training-describe-why-you-decided-to-generate-additional-data-how-you-generated-the-data-and-provide-example-images-of-the-additional-data-then-describe-the-characteristics-of-the-augmented-training-set-like-number-of-images-in-the-set-number-of-images-for-each-class-etc&#34;&gt;1. Describe how you preprocessed the image data. What techniques were chosen and why did you choose these techniques? Consider including images showing the output of each preprocessing technique. Pre-processing refers to techniques such as converting to grayscale, normalization, etc. (OPTIONAL: As described in the &amp;ldquo;Stand Out Suggestions&amp;rdquo; part of the rubric, if you generated additional data for training, describe why you decided to generate additional data, how you generated the data, and provide example images of the additional data. Then describe the characteristics of the augmented training set like number of images in the set, number of images for each class, etc.)&lt;/h4&gt;
-&lt;p&gt;For preprocessing, I converted the images to grayscale because the traffic signs are distinguishable by their shapes. I also normalized the images from [0,255] to [0,1]&lt;/p&gt;
-&lt;p&gt;Here is an example of a traffic sign image before and after grayscaling.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./output_images/NormalizedImage.png&#34; alt=&#34;Preprocessing&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;I decided to generate additional data because as can be seen from the frequency histogram some of the classes have less that 200 images in the training set. This can cause bias towards class with more data/images. I performed data augmentation on classes that have less than 800 images.&lt;/p&gt;
-&lt;p&gt;Following is the histogram of data distribution after augmentation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./output_images/hitogramAfterAugmentation.png&#34; alt=&#34;Data distribution after augmentation&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;To add more data to the the data set, I used the following techniques&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rotation by 345 degrees&lt;/li&gt;
-&lt;li&gt;Rotation by 25 degrees&lt;/li&gt;
-&lt;li&gt;Image smoothing by bilateral filter&lt;/li&gt;
-&lt;li&gt;Random Perspective transform&lt;/li&gt;
-&lt;li&gt;Random translation of the image&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./output_images/augmentation.png&#34; alt=&#34;Augmentation output images&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Only the classes that have less than 800 images in the training data set are invoked in data augmentation. Code block 17 displays the data augmentation code. Above mentioned augmentation techniques are randomly applied to randomly picked images from these data sets.&lt;/p&gt;
-&lt;p&gt;After the augmentation the data is shuffled and using &lt;strong&gt;train_test_split&lt;/strong&gt; module of sklearn the training data is split by the ratio of 8:2 in training and validation data sets respectively.&lt;/p&gt;
-&lt;h4 id=&#34;2-describe-what-your-final-model-architecture-looks-like-including-model-type-layers-layer-sizes-connectivity-etc-consider-including-a-diagram-andor-table-describing-the-final-model&#34;&gt;2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.&lt;/h4&gt;
-&lt;p&gt;My final model is the LENET architure that we used in the udacity course for MNIST data set. It consisted of the following layers:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Layer&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Convolution  32x32x1&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;28x28x6&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;RELU activation&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Pooling 28x28x6&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;14x14x6&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Convolution  14x14x6&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;10x10x16&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;RELU activation&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Pooling 10x10x16&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;5x5x16&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Flatten 5x5x16&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Fully connected&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;400 input, 120 output&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Flatten&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Fully connected&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;120 input, 84 output&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Output&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;84 input, 43 output&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;3-describe-how-you-trained-your-model-the-discussion-can-include-the-type-of-optimizer-the-batch-size-number-of-epochs-and-any-hyperparameters-such-as-learning-rate&#34;&gt;3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.&lt;/h4&gt;
-&lt;p&gt;To train the model, I used an adam optimizer with learning rate of 0.001. I trained the classifer for 30 epochs and a batch size of 128. The code for this section is in code blocks 23-26. I kept the learning rate, adam optimizer and batch size the same as suggested by Udacity&amp;rsquo;s lectures. My model reach 96.5% accuracy in 10 epochs. However the in the first iteration of this project, I had used the provided train and validation data without augmentation or splitting. For the first iteration I got around 85% accuracy in 10 epochs, that was way below the desired limit. Therefore I played around with the number of epochs as the training parameter and for that iteration I got around 90% accuracy at the 30th epoch. Therefore in the final submitted model I choose to kept the epoch at 30 which increased my validation set accuracy from 96.5% to 98%.&lt;/p&gt;
-&lt;h4 id=&#34;4-describe-the-approach-taken-for-finding-a-solution-and-getting-the-validation-set-accuracy-to-be-at-least-093-include-in-the-discussion-the-results-on-the-training-validation-and-test-sets-and-where-in-the-code-these-were-calculated-your-approach-may-have-been-an-iterative-process-in-which-case-outline-the-steps-you-took-to-get-to-the-final-solution-and-why-you-chose-those-steps-perhaps-your-solution-involved-an-already-well-known-implementation-or-architecture-in-this-case-discuss-why-you-think-the-architecture-is-suitable-for-the-current-problem&#34;&gt;4. Describe the approach taken for finding a solution and getting the validation set accuracy to be at least 0.93. Include in the discussion the results on the training, validation and test sets and where in the code these were calculated. Your approach may have been an iterative process, in which case, outline the steps you took to get to the final solution and why you chose those steps. Perhaps your solution involved an already well known implementation or architecture. In this case, discuss why you think the architecture is suitable for the current problem.&lt;/h4&gt;
-&lt;p&gt;My final model results were:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;validation set accuracy of 0.980 or 98%&lt;/li&gt;
-&lt;li&gt;test set accuracy of 0.902 or 90.2%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The simple LENET architecture fetched me around 96% accuracy on the normalized and gray scaled data.&lt;/p&gt;
-&lt;h3 id=&#34;test-a-model-on-new-images&#34;&gt;Test a Model on New Images&lt;/h3&gt;
-&lt;h4 id=&#34;1-choose-five-german-traffic-signs-found-on-the-web-and-provide-them-in-the-report-for-each-image-discuss-what-quality-or-qualities-might-be-difficult-to-classify&#34;&gt;1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.&lt;/h4&gt;
-&lt;p&gt;Here are five German traffic signs that I found on the web:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./output_images/ImagesFromWeb.png&#34; alt=&#34;Images from web&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;I chose the 5 signs as I wanted to compared how the classifier would perform on diverse dataset.The 70km/hr will give me a chance to evaluate whether the model can detect speed limits accurately. I choose the slippery slope sign as it is difficult to make out in low resolution. Since the yield and priority road sign look somewhat similar I choose these two to check whether the model can discern between them.&lt;/p&gt;
-&lt;h4 id=&#34;2-discuss-the-models-predictions-on-these-new-traffic-signs-and-compare-the-results-to-predicting-on-the-test-set-at-a-minimum-discuss-what-the-predictions-were-the-accuracy-on-these-new-predictions-and-compare-the-accuracy-to-the-accuracy-on-the-test-set-optional-discuss-the-results-in-more-detail-as-described-in-the-stand-out-suggestions-part-of-the-rubric&#34;&gt;2. Discuss the model&amp;rsquo;s predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the &amp;ldquo;Stand Out Suggestions&amp;rdquo; part of the rubric).&lt;/h4&gt;
-&lt;p&gt;Here are the results of the prediction:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Image&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Prediction&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;70 km/hr&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;20 km/hr&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Slippery road&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Slippery road&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Yield&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;30 km/hr&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Priority road&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Priority Road&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Turn Right&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Turn Right&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;The model was able to correctly guess 3 of the 5 traffic signs, which gives an accuracy of 80%. This compares favorably to the accuracy on the test set of 60%&lt;/p&gt;
-&lt;h4 id=&#34;3-describe-how-certain-the-model-is-when-predicting-on-each-of-the-five-new-images-by-looking-at-the-softmax-probabilities-for-each-prediction-provide-the-top-5-softmax-probabilities-for-each-image-along-with-the-sign-type-of-each-probability-optional-as-described-in-the-stand-out-suggestions-part-of-the-rubric-visualizations-can-also-be-provided-such-as-bar-charts&#34;&gt;3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the &amp;ldquo;Stand Out Suggestions&amp;rdquo; part of the rubric, visualizations can also be provided such as bar charts)&lt;/h4&gt;
-&lt;p&gt;The code for making predictions on my final model is located in the 31st cell of the Ipython notebook.&lt;/p&gt;
-&lt;p&gt;For the first image, the model in the second guess correctly indentifies as 70km/hr sign. In case of failing yield sign the model doesn&amp;rsquo;t correctly guess in top 5.
-Following image consists of top five soft max probabilities for the 5 images downloaded from web:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./output_images/5percent.png&#34; alt=&#34;Top 5 Classification&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;a_good.png&#34;
+         alt=&#34;jew1&#34;&gt;
+    &lt;figcaption&gt;Figure 1: Segmentation algorithm (best case) &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;b_bad.png&#34;
+         alt=&#34;jew2&#34;&gt;
+    &lt;figcaption&gt;Figure 2: Segmentation algorithm (worst case) &lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -358,45 +143,9 @@ Following image consists of top five soft max probabilities for the 5 images dow
     
     <item>
       <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
-      <link>https://dimpleb0501.github.io/project/3_manipulator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/3_manipulator/</guid>
-      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
-      <link>https://dimpleb0501.github.io/project/4_robot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/4_robot/</guid>
-      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
       <link>https://dimpleb0501.github.io/project/5_slipcontrol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/5_slipcontrol/</guid>
-      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
-      <link>https://dimpleb0501.github.io/project/6_haptic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/6_haptic/</guid>
-      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
-      <link>https://dimpleb0501.github.io/project/8_patternrec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/8_patternrec/</guid>
       <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
 </description>
     </item>
@@ -412,27 +161,9 @@ Following image consists of top five soft max probabilities for the 5 images dow
     
     <item>
       <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
-      <link>https://dimpleb0501.github.io/project/a_behaviorclone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/a_behaviorclone/</guid>
-      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
       <link>https://dimpleb0501.github.io/project/b_foodordering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/b_foodordering/</guid>
-      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
-      <link>https://dimpleb0501.github.io/project/c_facegen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/c_facegen/</guid>
       <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
 </description>
     </item>
@@ -470,6 +201,81 @@ Following image consists of top five soft max probabilities for the 5 images dow
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/g_turtlebot_autonomousnav/</guid>
       <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pattern recognition based prosthetic arm</title>
+      <link>https://dimpleb0501.github.io/project/8_patternrec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/8_patternrec/</guid>
+      <description>&lt;p align=&#39;justify&#39;&gt; The following section entails my work at Infinite biomedical technologies (a John Hopkins-affiliated research lab in the USA). Here I worked as a project manager, and with my team developed a stand-alone device that non-invasively records 8-channels of the subject’s EMG signals (in real-time) to differentiate, determine and control prosthetic hand positions. We successfully implemented hand-open, close, flex, extend, pronate, supinate and hook hand positions.
+&lt;br&gt;
+&amp;emsp; The images below (as well as the YouTube video) display the working of our interface for hand open and close positions. The EMG patterns generated when the subject opens or closes their hand is analyzed by our device and based on the classification result the robotic hand mimics the subject’s hand position. &lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;pattern_rec.gif&#34;
+         alt=&#34;pattern rec&#34;&gt;
+    &lt;figcaption&gt;Figure: Controlling prosthetic hand based on subject’s EMG patterns &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programming robotic manipulator for pick and place task</title>
+      <link>https://dimpleb0501.github.io/project/3_manipulator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/3_manipulator/</guid>
+      <description>&lt;p align=&#39;justify&#39;&gt; At my job at Dhristi works, we aimed to develop garbage bots for beach cleaning. My focus was on developing algorithms for a robotic arm for pick and place tasks. The application would be used to identify and pick garbage on the beach and place it on the bag/bin on top of a mobile rover (which was parallelly being developed by other team members).
+&lt;br&gt;
+&amp;emsp; I used ROS to set up an interface between the actual robot(purchased 5DOF
+robotic arm) and gazebo simulator. Thus controlling the robot both in the
+simulated and real environment. The Figure below displays the robot being
+controlled by ROS in both real and simulated environments. &lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;pickplace.gif&#34;
+         alt=&#34;manipulator&#34;&gt;
+    &lt;figcaption&gt;Figure 1: Robot mimicking position via commands from ROS &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;div style=&#34;clear: both;&#34;&gt;
+  &lt;div style=&#34;float: right; margin-left 1em; margin-top: -40px&#34;&gt;
+  &lt;figure&gt;
+      &lt;img src=&#34;reach.gif&#34;
+           alt=&#34;detect object&#34;
+           width=&#34;300&#34;&gt;
+      &lt;figcaption&gt;Figure 2: Robotic arm grasping household objects &lt;/figcaption&gt;
+  &lt;/figure&gt;  
+  &lt;/div&gt;
+  &lt;div&gt;
+  &lt;p align=&#39;justify&#39;&gt; To grasp household objects, I compared and analyzed several available grasping techniques. And interfaced the selected technique with our simulated robot.
+  &lt;br&gt;
+  Figure 2 displays the scene creation in a simulated environment consisting of
+  robot and household objects.
+  &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tactile and haptic glove interface</title>
+      <link>https://dimpleb0501.github.io/project/6_haptic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/6_haptic/</guid>
+      <description>&lt;p align=&#39;justify&#39;&gt; This interface is a telerobotics application and consists of the following 3 parts:
+&lt;ul&gt;
+  &lt;li&gt; Development of tactile glove: We developed a fabric tactile sensor array in the form of a glove that would be fitted to a robotic hand. The output of the tactile sensor is inversely proportional to the pressure applied by an external object. &lt;/li&gt;
+  &lt;li&gt; Development of haptic glove: To facilitate the remote human operator to perceive and understand distant and inaccessible environments, we developed haptic glove intending to render and replicate the sense of touch. &lt;/li&gt;
+  &lt;li&gt; Interface: Worked on developing a first-generation interface that enables the user to feel the object gripped by the robot, by determining the amount of pressure applied to the sensorized tactile glove and equivalently modulating vibratory haptic feedback on the haptic glove worn by the user. &lt;/li&gt;
+&lt;/ul&gt;
+&amp;emsp; Depending on the amount of pressure applied to the sensorized robotic hand
+equivalent vibration will be be experienced by the user. Figure below displays that
+high pressure is applied to the robotic hand and equivalent intensity vibration
+will be felt by the remote user wearing the haptic glove. &lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;interface.gif&#34;
+         alt=&#34;interface&#34;&gt;
+    &lt;figcaption&gt; Figure: Tactile and haptic glove interface &lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
