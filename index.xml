@@ -337,7 +337,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-142753896&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-152876439&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -347,7 +347,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-142753896&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-152876439&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1229,6 +1229,24 @@ Following image consists of top five soft max probabilities for the 5 images dow
     </item>
     
     <item>
+      <title>Object detection and tracking</title>
+      <link>https://dimpleb0501.github.io/project/2_objtrack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimpleb0501.github.io/project/2_objtrack/</guid>
+      <description>&lt;p align=&#39;justify&#39;&gt; At AitoeLabs, I worked with a team of engineers to build efficient video analytic solutions for internal security. To ensure ATM security we developed deep learning models and algorithmic codes on the live video stream.
+&lt;br&gt;
+&amp;emsp; I was affiliated with the object detection and tracking group. Our implemented human detection algorithm’s performance is displayed in below.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;objs_detect.gif&#34;
+         alt=&#34;atm surveillance&#34;&gt;
+    &lt;figcaption&gt;Figure: Detecting multiple objects (people) in a live stream &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;br&gt;
+&lt;p align=&#39;justify&#39;&gt; &amp;emsp; Object tracking deals with tracking detected objects by assigning IDs to them. A theft or vandalizing of an ATM generally happens when there is a group of people (more than the allowed number) in the ATM or if a person is loitering around inside the ATM for a prolonged duration. Using object tracking methodology we developed algorithms to detect this kind of behavior and on detection alerted the security personnel/ company.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
       <link>https://dimpleb0501.github.io/project/10_obsavoid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1242,16 +1260,14 @@ Following image consists of top five soft max probabilities for the 5 images dow
       <link>https://dimpleb0501.github.io/project/1_cars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimpleb0501.github.io/project/1_cars/</guid>
-      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</title>
-      <link>https://dimpleb0501.github.io/project/2_objtrack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimpleb0501.github.io/project/2_objtrack/</guid>
-      <description>&lt;p&gt;Hello my name is dimple I am trying out something new&lt;/p&gt;
+      <description>&lt;p align=&#39;justify&#39;&gt; For self-driving cars to traverse roads, it requires a robust path planning system. The planning system is responsible for high-level path planning such as route planning (which roads/ route to take to reach from point A to point B), path generation (generating a smooth curve to avoid abrupt acceleration/ deceleration and jerky behavior of car), and low-level path planning such as behavior selection (selecting behavior such as lane-keeping, intersection handling, traffic light handling), motion planning (generating the reference path along with reference speeds) and obstacle avoidance (reactive avoiding obstacles in its path).
+&lt;br&gt;
+&amp;emsp; During my work at Indian Institute of Technology, Bombay, I have worked towards designing and developing several modules of a reactive path planning system for autonomous mobile vehicles, allowing the vehicles to navigate predefined areas from the world map. Figure below displays multiple vehicles traversing roads in our simulated environment. &lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;multi_agents.gif&#34;
+         alt=&#34;cars&#34;&gt;
+    &lt;figcaption&gt;Figure: Cars traversing roads in an area selected in the world map &lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
