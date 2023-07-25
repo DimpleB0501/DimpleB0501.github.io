@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: April 16, 2023 --><html lang="en-us" >
+<!-- Last Published: July 25, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -276,7 +276,7 @@
 
   
 
-<meta name="description" content="An example of using the in-built project page." />
+<meta name="description" content="Figure: Slip control experimental setup To study the occurrence of slippage when mass is added to an object gripped by a robotic end-effector, I designed an experimental setup to recreate slip conditions and test friction models developed by the post-doctoral fellow." />
 
 
 
@@ -318,8 +318,8 @@
 <meta property="twitter:image" content="https://dimpleb0501.github.io/media/icon_huc013f98525804727a490388fa39763f6_9972_512x512_fill_q75_lanczos_center.jpg" />
 <meta property="og:site_name" content="Dimple Bhuta" />
 <meta property="og:url" content="https://dimpleb0501.github.io/project/5_slipcontrol/" />
-<meta property="og:title" content="Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment | Dimple Bhuta" />
-<meta property="og:description" content="An example of using the in-built project page." /><meta property="og:image" content="https://dimpleb0501.github.io/media/icon_huc013f98525804727a490388fa39763f6_9972_512x512_fill_q75_lanczos_center.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Slip control experimental setup design | Dimple Bhuta" />
+<meta property="og:description" content="Figure: Slip control experimental setup To study the occurrence of slippage when mass is added to an object gripped by a robotic end-effector, I designed an experimental setup to recreate slip conditions and test friction models developed by the post-doctoral fellow." /><meta property="og:image" content="https://dimpleb0501.github.io/media/icon_huc013f98525804727a490388fa39763f6_9972_512x512_fill_q75_lanczos_center.jpg" /><meta property="og:locale" content="en-us" />
 
   
   
@@ -347,14 +347,14 @@
     "@type": "WebPage",
     "@id": "https://dimpleb0501.github.io/project/5_slipcontrol/"
   },
-  "headline": "Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment",
+  "headline": "Slip control experimental setup design",
   
   "datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Technical skills - Python, Robot operating system (ROS), Webots Simulator, Matlab"
+    "name": "Dimple Bhuta"
   },
   
   "publisher": {
@@ -365,7 +365,7 @@
       "url": "https://dimpleb0501.github.io/media/icon_huc013f98525804727a490388fa39763f6_9972_192x192_fill_q75_lanczos_center.jpg"
     }
   },
-  "description": "An example of using the in-built project page."
+  "description": "Figure: Slip control experimental setup To study the occurrence of slippage when mass is added to an object gripped by a robotic end-effector, I designed an experimental setup to recreate slip conditions and test friction models developed by the post-doctoral fellow."
 }
 </script>
 
@@ -387,7 +387,7 @@
 
 
   
-  <title>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment | Dimple Bhuta</title>
+  <title>Slip control experimental setup design | Dimple Bhuta</title>
 
   
   
@@ -777,10 +777,10 @@
   
   
 <div class="article-container pt-3">
-  <h1>Path Planning and Patrolling for a team of Car-like Robots in a Campus Environment</h1>
+  <h1>Slip control experimental setup design</h1>
 
   
-  <p class="page-subtitle">Position - Senior research fellow at Autonomous Robots and Multi-robot Systems Lab, System and control engineering, IIT-Bombay</p>
+  <p class="page-subtitle"><p align='justify'> <span style="color:gray"> <b> Position </b> - Research assistant at <a href="https://neuroeng.org/"> Singapore Institute of Neurotechnology, National University of Singapore </a>  </span> <br> <b> Technical skills </b> - Matlab, Simulink, Python</p>
   
 
   
@@ -789,16 +789,6 @@
 
 <div class="article-metadata">
 
-  
-  
-  
-  
-  <div>
-    
-
-  <span >
-      Technical skills - Python, Robot operating system (ROS), Webots Simulator, Matlab</span>
-  </div>
   
   
 
@@ -864,7 +854,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/v_xDohm0imE" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/UbOTEKaXTJw" target="_blank" rel="noopener">
     <i class="fas fa-YouTube mr-1"></i>YouTube</a>
 
 
@@ -879,7 +869,17 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Hello my name is dimple I am trying out something new</p>
+      <figure>
+    <img src="slip_control.png"
+         alt="slip_control">
+    <figcaption>Figure: Slip control experimental setup</figcaption>
+</figure>
+<p align='justify'> To study the occurrence of slippage when mass is added to an object gripped by a robotic end-effector, I designed an <u>experimental setup</u> to recreate slip conditions and test friction models developed by the post-doctoral fellow.
+<br>
+&emsp; Slip conditions can be interpreted by normal and tangential forces of the object on the end- effector. I  worked  on  developing  a  high-density  tactile  sensor  array  to  fit  the  surface  area  of WidowX’s (purchased robot) parallel gripper, as well as built circuitry and designed algorithms to read tactile, force, and optical sensor data every 0.01 second using Simulink software. This part of the setup would provide the magnitude and direction of the normal force and would serve as input to the friction model/ controller designed by the post-doctoral fellow.
+<br>
+&emsp;To control the orientation  of the robot and adjust the gripper position, I developed an interface which permitted the gripper to perform micromotions  every  0.01  seconds.  The high-speed  micromotions  enables the  WidowX  to  promptly control the grip of the robot once the slip event is detected  by the friction model/ controller.
+ </p>
 
     </div>
 
@@ -903,12 +903,100 @@
 
   
   
-    
-
 
 
 
   
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://dimpleb0501.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_huf9acee3f8add2fe3498b750576dc30b8_119848_270x270_fill_q75_lanczos_center.jpg" alt="Dimple Bhuta"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://dimpleb0501.github.io/">Dimple Bhuta</a></h5>
+      <h6 class="card-subtitle">Senior Engineer – State Estimation and Control</h6>
+      <p class="card-text">My research interests include robotics, computer vision and bio-inspired design.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/DimpleB0501" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/dimple-bhuta-68425a47/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/dimple_resume.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
 
 
 

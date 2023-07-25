@@ -11,6 +11,9 @@
     <loc>https://dimpleb0501.github.io/research_projects/1_cars_proj/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://dimpleb0501.github.io/extra_project/5_wps_following_2wd/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dimpleb0501.github.io/research_projects/2_obj_det_track/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -151,13 +154,7 @@
     <loc>https://dimpleb0501.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dimpleb0501.github.io/extra_project/7_turtlebot_wpsfollowing/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dimpleb0501.github.io/extra_project/1_behavioralcloning/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dimpleb0501.github.io/extra_project/5_landmarkdet/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/extra_project/3_facegen/</loc>
@@ -170,6 +167,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/extra_project/6_turtlebot_obstacle_avoidance/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/b_foodordering/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/project/a_behaviorclone/</loc>
@@ -190,10 +190,16 @@
     <loc>https://dimpleb0501.github.io/project/c_facegen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://dimpleb0501.github.io/project/d_capt/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dimpleb0501.github.io/project/7_segmentation/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/project/2_objtrack/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/f_turtlebotobs/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/project/10_obsavoid/</loc>
@@ -202,28 +208,10 @@
     <loc>https://dimpleb0501.github.io/project/1_cars/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dimpleb0501.github.io/project/5_slipcontrol/</loc>
+    <loc>https://dimpleb0501.github.io/project/8_patternrec/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/project/9_flvis/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dimpleb0501.github.io/project/b_foodordering/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dimpleb0501.github.io/project/d_capt/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dimpleb0501.github.io/project/e_landmarkdet/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dimpleb0501.github.io/project/f_turtlebotobs/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dimpleb0501.github.io/project/g_turtlebot_autonomousnav/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dimpleb0501.github.io/project/8_patternrec/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dimpleb0501.github.io/project/3_manipulator/</loc>
@@ -238,7 +226,13 @@
     <loc>https://dimpleb0501.github.io/tag/robotics/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://dimpleb0501.github.io/project/5_slipcontrol/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dimpleb0501.github.io/project/6_haptic/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dimpleb0501.github.io/project/e_2wdd/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
